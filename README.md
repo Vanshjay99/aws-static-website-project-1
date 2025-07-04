@@ -33,10 +33,5 @@ This is my first cloud project where I deployed a simple static portfolio websit
 
 ---
 
-## 🖼️ Preview
 
-> *(You can upload a screenshot and name it `screenshot.png` to show a live preview here)*
-
-```markdown
-![Website Screenshot](screenshot.png)
 
